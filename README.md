@@ -1,6 +1,61 @@
 
+
+![project](https://user-images.githubusercontent.com/83359385/116515068-7349e100-a8e9-11eb-8f51-b7097b2209ed.jpeg)
+
 ![WD Bootcamp](https://user-images.githubusercontent.com/83359385/116512515-cae64d80-a8e5-11eb-8416-b0c5c391de19.png)
-[Project.zip](https://github.com/Priya1752000/Project-WD/files/6396770/Project.zip)
+*{
+	box-sizing: border-box;
+}
+body{
+	margin:100px;
+	width: 100%;
+	padding: 0px;
+	font: times new roman, poppins, arial;
+}
+#heading {
+width: 500px;
+height: 0.5vh;
+position: relative;
+justify-content: space-around;
+align-items: center;
+}
+h1{
+text-transform: uppercase;
+margin: 50px;
+padding: 0px;
+justify-content: space-around;
+align-items: center;
+position: relative;
+top: 0px;
+left: 0px;
+width: 100%;
+background-color: white;
+box-shadow: 5px 10px 30px rgba(0,0,0,0.02);
+}
+.link ul li a {
+	text-decoration: none;
+	color: rgba(1,107,126);
+}
+.order ul li {
+	text-transform: uppercase;
+}
+#content{
+	margin:50px;
+	width: 75%;
+}
+img {
+	width: 1000px;
+	height: 500px;
+}
+.first-text img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+.link h4 a {
+	text-decoration: none;
+	color: rgba(1,107,126);
+}
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
