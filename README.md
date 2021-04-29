@@ -1,11 +1,4 @@
 
-
-![project (1)](https://user-images.githubusercontent.com/83359385/116519946-b7d87b00-a8ef-11eb-9809-275a91c31f2a.jpeg)
-
-
-![WD Bootcamp](https://user-images.githubusercontent.com/83359385/116512515-cae64d80-a8e5-11eb-8416-b0c5c391de19.png)
-https://replit.com/@PriyaDharsini1/Project#style.css
-
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
